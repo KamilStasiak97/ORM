@@ -1,0 +1,6 @@
+@AdoNetProject_HostAddress = http://localhost:5103
+
+GET {{AdoNetProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
